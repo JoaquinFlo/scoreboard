@@ -1,0 +1,12 @@
+/Users/user/Score Manager/bin/Debug/netcoreapp3.1/Score Manager.deps.json
+/Users/user/Score Manager/bin/Debug/netcoreapp3.1/Score Manager.runtimeconfig.json
+/Users/user/Score Manager/bin/Debug/netcoreapp3.1/Score Manager.runtimeconfig.dev.json
+/Users/user/Score Manager/bin/Debug/netcoreapp3.1/Score Manager.dll
+/Users/user/Score Manager/bin/Debug/netcoreapp3.1/Score Manager.pdb
+/Users/user/Score Manager/obj/Debug/netcoreapp3.1/Score Manager.csprojAssemblyReference.cache
+/Users/user/Score Manager/obj/Debug/netcoreapp3.1/Score Manager.AssemblyInfoInputs.cache
+/Users/user/Score Manager/obj/Debug/netcoreapp3.1/Score Manager.AssemblyInfo.cs
+/Users/user/Score Manager/obj/Debug/netcoreapp3.1/Score Manager.csproj.CoreCompileInputs.cache
+/Users/user/Score Manager/obj/Debug/netcoreapp3.1/Score Manager.dll
+/Users/user/Score Manager/obj/Debug/netcoreapp3.1/Score Manager.pdb
+/Users/user/Score Manager/obj/Debug/netcoreapp3.1/Score Manager.genruntimeconfig.cache
