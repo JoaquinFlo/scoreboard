@@ -15,6 +15,4 @@ Commands:
 ```/--point```
 ```/exit```
 
-Email:
-
-<florentinoj005@gmail.com>
+Email: <florentinoj005@gmail.com>
