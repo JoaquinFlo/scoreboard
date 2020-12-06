@@ -1,6 +1,6 @@
 # Scoreboard
 
-Tracks the scores of 1-3 clients
+A Text-based interface that Tracks the scores of 1-3 clients
 
 - [x] text program
 - [x] interactive
